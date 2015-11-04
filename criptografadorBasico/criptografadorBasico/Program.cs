@@ -10,8 +10,8 @@ namespace criptografadorBasico
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Criptografa: " + criptografa(100, 50, 10, 5));
-            Console.WriteLine("Decriptografa: " + decriptografa(505, 50, 10, 5));
+            Console.WriteLine("Criptografa: " + criptografa(284, 50, 10, 5));
+            Console.WriteLine("Decriptografa: " + decriptografa(1425, 50, 10, 5));
 
             Console.ReadKey();
 
